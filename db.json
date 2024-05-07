@@ -4,22 +4,22 @@
     "tytul": "Monopoly",
     "mingLG": 2,
     "maxLG": 6,
-    "czas": "godzina",
-    "trudnosc": 1
+    "czas": 1,
+    "trudnosc": "latwe"
   },
   {
     "tytu;": "Jenga",
     "minLG": 2,
     "maxLG": 3,
-    "czas": "piec minut",
-    "trudnosc": 3
+    "czas": 2,
+    "trudnosc": "trudne"
   },
   {
     "tytul": "Scrabble",
     "minLG": 2,
-    "maxLG": "4",
-    "czas": "pol godziny",
-    "trudnosc": 2
+    "maxLG": 4,
+    "czas": 3,
+    "trudnosc": "trudne"
   }
 ]
 }
