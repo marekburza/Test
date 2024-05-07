@@ -1,0 +1,25 @@
+{
+  "planszowki":[
+  {
+    "tytul": "Monopoly",
+    "mingLG": 2,
+    "maxLG": 6,
+    "czas": "godzina",
+    "trudnosc": 1
+  },
+  {
+    "tytu;": "Jenga",
+    "minLG": 2,
+    "maxLG": 3,
+    "czas": "piec minut",
+    "trudnosc": 3
+  },
+  {
+    "tytul": "Scrabble",
+    "minLG": 2,
+    "maxLG": "4",
+    "czas": "pol godziny",
+    "trudnosc": 2
+  }
+]
+}
